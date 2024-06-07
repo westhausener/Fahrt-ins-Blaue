@@ -1,0 +1,6 @@
+import random
+
+namelist = ["Johannes Beutler","Daniel Wohlfrom","Chrisitan Schwandt","Valentin Löffelad","Anselm Schierle","Simon Gmeiner","Benedikt Wigger","Daniel Schmidt","Michele Coco","Fabian Wunderle","Joachim Klingler","Marc Waizmann","Maximilien Kintz","Jan Hergenhan","Michael Müller","Kay Köder","Valentin Krieger","Benedikt Glaser"]
+random.shuffle(namelist)
+
+print(namelist)
